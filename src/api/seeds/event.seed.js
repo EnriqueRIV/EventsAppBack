@@ -20,7 +20,7 @@ const events = [
     description:
       'The best "All Styles" party of the year with DJ STACK, DJ FRIEND, DJ L…The best "All Styles" party of the year with DJ STACK, DJ FRIEND, DJ LATINO, DJ MUS, DJ AXON, DJ ROCKER, DJ PLAT and DJ SYNCLAIR, 7 dance floor, exotic drinks.',
     imageEvent:
-      'https://res.cloudinary.com/dkwfauuct/image/upload/v1726176910/folders/cartel-fiesta_cm1zqv.jpg',
+      'https://res.cloudinary.com/dkwfauuct/image/upload/v1727304729/folders/cartel-fiesta_swyxjb.jpg',
     asis: []
   },
   {
@@ -30,7 +30,7 @@ const events = [
     description:
       'Describir la magia de este monumental concierto será posible solo estando presente. ABRAHAM MATEO ',
     imageEvent:
-      'https://res.cloudinary.com/dkwfauuct/image/upload/v1726176980/folders/CARTEL-CONCIERTO-ABRAHAM-MATEO_a2fnz2.webp',
+      'https://res.cloudinary.com/dkwfauuct/image/upload/v1727304769/folders/CARTEL-CONCIERTO-ABRAHAM-MATEO_wsjwl2.webp',
     asis: []
   },
   {
@@ -60,7 +60,7 @@ const events = [
     description:
       'Ven a disfrutar de la mejor, mayor y más divertida Fiesta de Carnaval jamás antes vista, tendrás música en vivo, DJs del momento para tener un ambiente fenomenal, bebidas espirituosas a precios invatibles, disfraces, espuma y ....muchas ....muchas mas sorpresas',
     imageEvent:
-      'https://res.cloudinary.com/dkwfauuct/image/upload/v1727280080/folders/carnaval-party_eqs19y.jpg',
+      'https://res.cloudinary.com/dkwfauuct/image/upload/v1727304852/folders/carnaval-party_t1ax5q.jpg',
     asis: []
   }
 ];

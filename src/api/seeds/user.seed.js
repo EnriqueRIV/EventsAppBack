@@ -12,7 +12,7 @@ const users = [
     password: 'admin123',
     userEmail: 'admin@proyecto10.org',
     imageAvatar:
-      'https://res.cloudinary.com/dkwfauuct/image/upload/v1726170971/folders/admin_iewpq3.jpg',
+      'https://res.cloudinary.com/dkwfauuct/image/upload/v1727304615/folders/admin_f6qyzx.jpg',
     events: [],
     role: 'admin'
   },
@@ -23,7 +23,7 @@ const users = [
     password: 'user123',
     userEmail: 'user1@proyecto10.org',
     imageAvatar:
-      'https://res.cloudinary.com/dkwfauuct/image/upload/v1727280241/folders/user_ggmb3h.jpg',
+      'https://res.cloudinary.com/dkwfauuct/image/upload/v1727304653/folders/user_hjdfzz.jpg',
     events: [],
     role: 'user'
   },
