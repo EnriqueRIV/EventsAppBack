@@ -5,16 +5,16 @@ const { CloudinaryStorage } = require('multer-storage-cloudinary');
 const storageImgUser = new CloudinaryStorage({
   cloudinary: cloudinary,
   params: {
-    folder: 'users',
-    allowed_formats: ['jpg', 'png', 'jpeg', 'webp']
+    folder: 'users'
+    // allowed_formats: ['jpg', 'png', 'jpeg', 'webp']
   }
 });
 
 const storageImgEvent = new CloudinaryStorage({
   cloudinary: cloudinary,
   params: {
-    folder: 'events',
-    allowed_formats: ['jpg', 'png', 'jpeg', 'webp']
+    folder: 'events'
+    // allowed_formats: ['jpg', 'png', 'jpeg', 'webp']
   }
 });
 
