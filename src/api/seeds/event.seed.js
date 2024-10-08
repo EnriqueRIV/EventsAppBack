@@ -5,6 +5,7 @@ const Event = require('../models/Event');
 
 const events = [
   {
+    author: 'admin',
     title: 'GENTE DE ZONA CRAZY TOUR',
     location: 'Arena Stadium',
     date: '2024-10-26T00:00:00.000+00:00',
@@ -14,6 +15,7 @@ const events = [
     asis: []
   },
   {
+    author: 'admin',
     title: 'ALL ALL STYLE PARTY',
     location: 'Party Road 21',
     date: '2027-02-01T23:00:00.000+00:00',
@@ -24,6 +26,7 @@ const events = [
     asis: []
   },
   {
+    author: 'admin',
     title: 'ABRAHAM MATEO en Concierto',
     location: 'Parque Finca Liana',
     date: '2039-09-14T00:00:00.000+00:00',
@@ -34,6 +37,7 @@ const events = [
     asis: []
   },
   {
+    author: 'admin',
     title: 'Rock & Roll of The Broken Hearted',
     location: 'Dead Street',
     date: '2025-01-06T00:00:00.000+00:00',
@@ -44,6 +48,7 @@ const events = [
     asis: []
   },
   {
+    author: 'admin',
     title: 'RETRO PARTY "The Best of The 80s"',
     location: '80 Avenue, 80',
     date: '2042-05-17T00:00:00.000+00:00',
@@ -54,6 +59,7 @@ const events = [
     asis: []
   },
   {
+    author: 'admin',
     title: 'Fiesta de CARNAVAL',
     location: 'Portal del Rey, 26',
     date: '2026-02-09T00:00:00.000+00:00',

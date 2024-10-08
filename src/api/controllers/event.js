@@ -28,6 +28,7 @@ const getEventById = async (req, res, next) => {
 const postEvent = async (req, res, next) => {
   try {
     const newEvent = new Event({
+      author: req.body.author,
       title: req.body.title,
       location: req.body.location,
       date: req.body.date,
@@ -48,6 +49,7 @@ const putEvent = async (req, res, next) => {
     const eventActual = await Event.findById(id);
     const eventModify = new Event(req.body);
     eventModify._id = req.params.id;
+    eventModify.author = req.params.author;
     eventModify.imageEvent = req.file ? req.file.path : req.params.imageEvent;
     if (req.body.asis == ![]) {
       eventModify.asis = [...eventActual.asis];
