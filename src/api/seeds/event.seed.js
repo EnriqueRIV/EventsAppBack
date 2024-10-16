@@ -11,7 +11,7 @@ const events = [
     date: '2024-10-26T00:00:00.000+00:00',
     description: 'The most crazy concert of GENTE DE ZOOONA!!!',
     imageEvent:
-      'https://res.cloudinary.com/dkwfauuct/image/upload/v1726176651/folders/gentedezona_nnaau2.jpg',
+      'https://res.cloudinary.com/dkwfauuct/image/upload/v1729069420/folders/gentedezona_vnyilz.jpg',
     asis: []
   },
   {
